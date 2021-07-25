@@ -2,7 +2,7 @@
 同济大学CS《计算机系统实验》实验一TongJi University CS computer system experiment assignment 1
 ## 概述
 
-本工程为2020年同济大学计算机系计算机系统实验实验1。本次实验使用Verilog语言实现了89条MIPS指令的多周期CPU的设计、仿真和下板。支持cp0和时钟中断。
+本工程为2021年同济大学计算机系计算机系统实验实验1。本次实验使用Verilog语言实现了89条MIPS指令的多周期CPU的设计、仿真和下板。支持cp0和时钟中断。
 
 ## 功能说明
 
