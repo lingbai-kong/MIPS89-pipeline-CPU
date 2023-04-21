@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../pipelineCPU.gen/sources_1/ip/imem/sim/imem.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

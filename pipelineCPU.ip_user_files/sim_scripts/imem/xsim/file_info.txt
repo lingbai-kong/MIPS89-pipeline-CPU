@@ -1,0 +1,2 @@
+imem.v,verilog,xil_defaultlib,../../../../pipelineCPU.gen/sources_1/ip/imem/sim/imem.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v
